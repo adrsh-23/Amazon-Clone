@@ -29,7 +29,7 @@ function Home() {
           title="New Apple iPhone 12 Pro (128GB) - Pacific Blue 6.1 inch Super Retina Display"
           price={1000.99}
           rating={4}
-          image="https://imagineonline.store/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSnJkbUZ5YVdGdWRITXZibmQyTTNGelpHdHdORzB4WXpSd2NqZHhZM2d3Y0ROamFHY3phQzgxTmpjNFpUVXpNVEpqTXpZM1pqZ3lPVGxtTVRZeVpqUmtOR1JsTm1JM09UYzBZV1JoWXpBNU5ERmxaV1U0WWprNU9UQmxNMlZrTVdNeU16QXdaVGhqQmpvR1JWUTZFR1JwYzNCdmMybDBhVzl1U1NKSmFXNXNhVzVsT3lCbWFXeGxibUZ0WlQwaVRVZE5WRE5JVGw5Qlh6SXVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0SnlkTlIwMVVNMGhPWDBGZk1pNXdibWNHT3daVU9oRmpiMjUwWlc1MFgzUjVjR1ZKSWc1cGJXRm5aUzl3Ym1jR093WlUiLCJleHAiOiIyMDIxLTA5LTE5VDE2OjUyOjE1LjA0M1oiLCJwdXIiOiJibG9iX2tleSJ9fQ==--077bd358983fe4f4a0488996c788a1247dbceada/MGMT3HN_A_2.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22MGMT3HN_A_2.png%22%3B+filename%2A%3DUTF-8%27%27MGMT3HN_A_2.png"
+          image="https://novelty.co.ke/wp-content/uploads/2020/12/ipm1.jpg"
         />
       </div>
 
