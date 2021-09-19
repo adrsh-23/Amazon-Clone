@@ -38,7 +38,7 @@ export default function Header() {
             </span>
           </div>
         </Link>
-        <Link className="header__link" to="/">
+        <Link className="header__link" to={user ? "/orders" : "/login"}>
           <div className="header__option">
             <span className="header__optionLineOne">Returns</span>
             <span className="header__optionLineTwo">& Orders</span>
