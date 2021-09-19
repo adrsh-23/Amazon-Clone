@@ -24,12 +24,19 @@ function Home() {
           rating={4}
           image="https://images-na.ssl-images-amazon.com/images/I/81O%2BGNdkzKL._AC_SX450_.jpg"
         />
+        <Product
+          id="4903866"
+          title="New Apple iPhone 12 Pro (128GB) - Pacific Blue 6.1 inch Super Retina Display"
+          price={1000.99}
+          rating={4}
+          image="https://imagineonline.store/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSnJkbUZ5YVdGdWRITXZibmQyTTNGelpHdHdORzB4WXpSd2NqZHhZM2d3Y0ROamFHY3phQzgxTmpjNFpUVXpNVEpqTXpZM1pqZ3lPVGxtTVRZeVpqUmtOR1JsTm1JM09UYzBZV1JoWXpBNU5ERmxaV1U0WWprNU9UQmxNMlZrTVdNeU16QXdaVGhqQmpvR1JWUTZFR1JwYzNCdmMybDBhVzl1U1NKSmFXNXNhVzVsT3lCbWFXeGxibUZ0WlQwaVRVZE5WRE5JVGw5Qlh6SXVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0SnlkTlIwMVVNMGhPWDBGZk1pNXdibWNHT3daVU9oRmpiMjUwWlc1MFgzUjVjR1ZKSWc1cGJXRm5aUzl3Ym1jR093WlUiLCJleHAiOiIyMDIxLTA5LTE5VDE2OjUyOjE1LjA0M1oiLCJwdXIiOiJibG9iX2tleSJ9fQ==--077bd358983fe4f4a0488996c788a1247dbceada/MGMT3HN_A_2.png?content_type=image%2Fpng&disposition=inline%3B+filename%3D%22MGMT3HN_A_2.png%22%3B+filename%2A%3DUTF-8%27%27MGMT3HN_A_2.png"
+        />
       </div>
 
       <div className="home__row">
         <Product
           id="4903850"
-          title="Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor"
+          title="Fitbit FB507BKBK Versa 2 Health & Fitness Smartwatch with Heart Rate, Music, Alexa Built-in, Sleep & Swim Tracking, Black/Carbon, One Size (S & L Bands Included) (Black/Carbon)"
           price={199.99}
           rating={3}
           image="https://images-na.ssl-images-amazon.com/images/I/71Swqqe7XAL._AC_SX466_.jpg"
