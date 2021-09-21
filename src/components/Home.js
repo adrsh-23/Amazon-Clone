@@ -26,10 +26,10 @@ function Home() {
         />
         <Product
           id="4903866"
-          title="New Apple iPhone 12 Pro (128GB) - Pacific Blue 6.1 inch Super Retina Display"
+          title="New Apple iPhone 12 Pro (128GB) - Black 6.1 inch Super Retina Display"
           price={1000.99}
           rating={4}
-          image="https://novelty.co.ke/wp-content/uploads/2020/12/ipm1.jpg"
+          image="http://pngimg.com/uploads/iphone_12/small/iphone_12_PNG27.png"
         />
       </div>
 
