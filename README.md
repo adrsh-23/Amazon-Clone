@@ -16,7 +16,7 @@
 ### BACKEND:  ![Firebase](https://img.shields.io/badge/-Firebase-563D7C?style=flat-square&logo=firebase)
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
