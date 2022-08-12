@@ -1,8 +1,22 @@
-# Website 
+# AMAZON CLONE
 
-[Link](https://amazonwebclone.herokuapp.com/)
+[WEBSITE LINK](https://adrsh-23.github.io/Amazon-Clone/)
 
-# Getting Started with Create React App
+## FEATURES 
+
+* LOGIN/ SIGNUP
+* ADD TO CART 
+* CHECKOUT PAGE
+* PAYMENT PAGE
+* ORDERS PAGE
+
+## TECHNOLOGY USED
+
+### FRONTEND: ![React](https://img.shields.io/badge/-React-563D7C?style=flat-square&logo=react)
+### BACKEND:  ![Firebase](https://img.shields.io/badge/-Firebase-563D7C?style=flat-square&logo=firebase)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
