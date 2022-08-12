@@ -1,0 +1,98 @@
+footer{
+    background-color: #232f3e;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    color: white;
+    height: 200px;
+    padding-bottom: 100px;
+    
+}
+
+.firstList{
+    display: flex;
+    flex-direction: column;
+    margin-right: 100px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.listItem{
+    padding: 2px;
+    color: rgba(255, 255, 240, 0.822);
+}
+
+.top{
+    background-color: #2e3c4d;
+    color: white;
+    display: flex;
+    text-decoration: none;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-bottom: 0px;
+
+    /* border-bottom: 2px white; */
+    /* border-bottom: 2px rgba(255, 255, 255, 0.096) solid; */
+}
+
+.scrollTop{
+    display: flex;
+    text-decoration: none;
+   
+}
+
+.topLink{
+    text-decoration: none;
+   
+}
+.secondList{
+    display: flex;
+    /* height: 350px; */
+    background-color: #232f3e;
+    align-items: center;
+    justify-content: center;
+    border-top: 1px solid #2e3c4d;
+}
+
+.firstLine > img{
+    max-width: 150px;
+    max-height: 30px;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+
+.firstLine{
+    margin-top: 50px;
+  
+    display: flex;
+    margin-bottom: 260px
+}
+
+.lang1{
+    display: flex;
+    color: white;
+   
+    margin: 3px;
+    padding: 2px;
+    max-height: 40px;
+}
+
+.footerIcon{
+    border: solid white 0.00002px;
+    display: flex;
+
+}
+
+.footerLang{
+    color: black;
+    display: none;
+    list-style-type: none;
+    background-color: white;
+    position: absolute;
+    min-width: 30px;
+    margin-left: 100px;
+}
+.footerIcon:hover .footerLang{
+  display: block;
+}
